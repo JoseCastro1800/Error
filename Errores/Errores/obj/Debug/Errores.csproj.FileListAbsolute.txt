@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Desktop\Errores\Errores\bin\Debug\Errores.exe.config
+C:\Users\karla\OneDrive\Desktop\Errores\Errores\bin\Debug\Errores.exe
+C:\Users\karla\OneDrive\Desktop\Errores\Errores\bin\Debug\Errores.pdb
+C:\Users\karla\OneDrive\Desktop\Errores\Errores\obj\Debug\Errores.csprojAssemblyReference.cache
+C:\Users\karla\OneDrive\Desktop\Errores\Errores\obj\Debug\Errores.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Desktop\Errores\Errores\obj\Debug\Errores.exe
+C:\Users\karla\OneDrive\Desktop\Errores\Errores\obj\Debug\Errores.pdb
